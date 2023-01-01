@@ -9,3 +9,6 @@ print(formattedDate)
 formattedTime = currentDateAndTime.strftime('%H:%M')
 print(formattedTime)
 
+formattedDateAndTime = currentDateAndTime.strftime("%d/%m/%Y %H:%M")
+print(formattedDateAndTime)
+
