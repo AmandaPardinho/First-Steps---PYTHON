@@ -11,4 +11,3 @@ print(formattedTime)
 
 formattedDateAndTime = currentDateAndTime.strftime("%d/%m/%Y %H:%M")
 print(formattedDateAndTime)
-
